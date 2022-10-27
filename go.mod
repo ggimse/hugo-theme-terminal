@@ -1,3 +1,3 @@
-module github.com/ggimse/hugo-theme-terminal@update_nord
+module github.com/ggimse/hugo-theme-terminal
 
 go 1.19
